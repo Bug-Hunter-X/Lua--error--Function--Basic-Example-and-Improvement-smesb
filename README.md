@@ -1,0 +1,1 @@
+This example demonstrates a common error in Lua: passing a 'nil' value to a function expecting a number.  The 'error' function is used to handle the error, but the error message is basic.  The solution shows how to improve the error message to provide more context for debugging.
